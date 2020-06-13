@@ -1,0 +1,14 @@
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\bin\Debug\Database1.mdf
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\bin\Debug\Database1_log.ldf
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\bin\Debug\Zadatak1-2.exe.config
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\bin\Debug\Zadatak1-2.exe
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\bin\Debug\Zadatak1-2.pdb
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1-2.csprojAssemblyReference.cache
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1_2.login.resources
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1_2.Forme.PorudzbinaForm.resources
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1_2.Properties.Resources.resources
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1_2.Register.resources
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1-2.csproj.GenerateResource.cache
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1-2.exe
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1-2.pdb
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\Zadatak1-2\Zadatak1-2\obj\Debug\Zadatak1_2.Forme.KnjigaForm.resources

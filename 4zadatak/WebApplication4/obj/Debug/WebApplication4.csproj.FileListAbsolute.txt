@@ -1,0 +1,111 @@
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Claims.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\nikola.lukic\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\WebApplication4.dll.config
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\WebApplication4.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\WebApplication4.pdb
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\csc.exe
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\csc.exe.config
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\csc.rsp
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\csi.exe
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\csi.exe.config
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\csi.rsp
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.AppContext.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Console.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.IO.Compression.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.IO.Pipes.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.AccessControl.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.Claims.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.ValueTuple.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\vbc.exe
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\vbc.exe.config
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\vbc.rsp
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\obj\Debug\WebApplication4.dll
+D:\!Metropolitan\Programiranje u C#\Primer ispita uradjen\4zadatak\WebApplication4\obj\Debug\WebApplication4.pdb
